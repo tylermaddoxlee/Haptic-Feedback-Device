@@ -21,4 +21,8 @@ Portable and hands-free design.
 - C++ (Arduino IDE)  
 - HC-SR04 ultrasonic sensors  
 - Vibration motors  
-- 3D-printed housing (if applicable)  
+- 3D-printed housing (if applicable)
+
+## Code
+Completed with groupmate
+<img width="586" height="731" alt="image" src="https://github.com/user-attachments/assets/f2485c24-9683-4c6d-9bf6-45c53153c086" />
