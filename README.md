@@ -1,4 +1,4 @@
-# Haptic-Feedback-Device
+# Haptic-Feedback-Navigation
 A wearable assistive device designed to help visually impaired users safely navigate stairs, drop-offs, obstacles, and approaching individuals using ultrasonic sensors and vibration feedback.
 
 ## About
