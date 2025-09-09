@@ -23,6 +23,5 @@ Portable and hands-free design.
 - Vibration motors  
 - 3D-printed housing (if applicable)
 
-## Code
-Completed with groupmate
+## Code Snippet
 <img width="586" height="731" alt="image" src="https://github.com/user-attachments/assets/f2485c24-9683-4c6d-9bf6-45c53153c086" />
